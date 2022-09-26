@@ -3,7 +3,7 @@
 
 ### About me
 
-- :computer: Sou estudante de informática no secan.
+- :computer: Sou estudante de informática no senac.
 - :seedling: Estou aprendendo HTML,  CSS e Javascript.
 
 
