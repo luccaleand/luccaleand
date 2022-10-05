@@ -4,7 +4,7 @@
 ### About me
 
 - :computer: Sou estudante de informática no senac.
-- :seedling: Estou aprendendo HTML,  CSS e Javascript.
+- :seedling: Aprendendo HTML,  CSS e Javascript.
 
 
 #### Conecte-se comigo:
