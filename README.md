@@ -3,11 +3,10 @@
 
 ### About me
 
-👋 Hi, I’m Lucca Leandro
-🌱 I’m currently learning Java
-📫 How to reach me .. just send me a message or email me on luccadcavalcante@gmail.com
+- 👋 Hi, I’m Lucca Leandro
+- 📫 How to reach me .. just send me a message or email me on luccadcavalcante@gmail.com
 - :computer: Sou estudante de informática no senac.
-- :seedling: Aprendendo HTML,  CSS e Javascript.
+- :seedling: I’m currently learning HTML,  CSS e Javascript.
 
 
 #### Conecte-se comigo:
